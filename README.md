@@ -9,8 +9,8 @@
 
 <div align="center" justify="space-between">
     <a href="https://github.com/EduNunesGithub">
-    <img width="48%" height="180em" src="https://github-readme-stats.vercel.app/api?username=EduNunesGithub&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-    <img width="48%" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EduNunesGithub&layout=compact&langs_count=7&theme=dracula"/>
+    <img width="48%" height="180em" src="https://github-readme-stats.vercel.app/api?username=EduNunesGithub&show_icons=true&theme=dracula"/>
+    <img width="48%" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EduNunesGithub&layout=compact&theme=dracula"/>
 </div>
     
 ## Social
