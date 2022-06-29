@@ -7,10 +7,10 @@
 
 ## Stats
 
-<div align="center">
+<div align="center" justify="space-between">
     <a href="https://github.com/EduNunesGithub">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=EduNunesGithub&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EduNunesGithub&layout=compact&langs_count=7&theme=dracula"/>
+    <img width="48%" height="180em" src="https://github-readme-stats.vercel.app/api?username=EduNunesGithub&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+    <img width="48%" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EduNunesGithub&layout=compact&langs_count=7&theme=dracula"/>
 </div>
     
 ## Social
@@ -23,3 +23,7 @@
 		<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
 	</a>
 </div>
+
+## Contribuições
+	
+![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
